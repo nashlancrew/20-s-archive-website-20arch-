@@ -1,0 +1,23 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10px;
+    padding: 10px;
+}
+
+.grid-item {
+    background-color: #daebdb;
+    color: rgb(130, 38, 38);
+    border: 2px solid #570808;
+    text-align: center;
+    padding: 20px;
+    font-size: 30px;
+}
