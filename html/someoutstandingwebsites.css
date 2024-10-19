@@ -42,7 +42,7 @@ header p {
 }
 
 /* Section Styles */
-section {
+article {
     background: rgb(255, 255, 255); /* Light, frosted glass effect */
     backdrop-filter: blur(10px);
     border-radius: 15px;
@@ -52,15 +52,15 @@ section {
     transition: transform 0.3s ease;
 }
 
-section:hover {
+article:hover {
     transform: translateY(-10px); /* Slight hover lift */
 }
 
-section h2 {
+article h2 {
     color: #ea3d4b;
 }
 
-section p {
+article p {
     color: #444;
 }
 
