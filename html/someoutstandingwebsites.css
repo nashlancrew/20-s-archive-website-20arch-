@@ -1,6 +1,6 @@
 /* General Styles */
 body {
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Fraunces', serif;
     background-color: #ffffff;
     color: #333;
     margin: 0;
@@ -8,7 +8,7 @@ body {
     line-height: 1.6;
 }
 
-h1, h2 {
+h1, h2, h3 {
     color: #222;
     font-weight: 700;
 }
@@ -21,6 +21,11 @@ h1 {
 h2 {
     font-size: 2em;
     margin-bottom: 15px;
+}
+
+h3 {
+    font-size: 1.5em;
+    margin-bottom: 20px;
 }
 
 /* Hero Section Styles */
