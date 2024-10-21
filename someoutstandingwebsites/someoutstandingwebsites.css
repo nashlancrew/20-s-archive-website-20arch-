@@ -38,7 +38,7 @@ header {
 
 header p {
     font-size: 1.2em;
-    color: #666;
+    color: #030952;
 }
 
 /* Section Styles */
@@ -57,11 +57,11 @@ article:hover {
 }
 
 article h2 {
-    color: #ea3d4b;
+    color: #170982;
 }
 
 article p {
-    color: #444;
+    color: #000000;
 }
 
 /* Image Grid */
