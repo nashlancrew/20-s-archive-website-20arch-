@@ -2,14 +2,14 @@
 body {
     font-family: 'Fraunces', serif;
     background-color: #ffffff;
-    color: #333;
+    color: #666;
     margin: 0;
     padding: 0;
     line-height: 1.6;
 }
 
 h1, h2, h3 {
-    color: #222;
+    color: #8882;
     font-weight: 700;
 }
 
