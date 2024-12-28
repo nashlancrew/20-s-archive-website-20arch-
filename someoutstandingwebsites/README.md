@@ -15,4 +15,4 @@
 
 ## Style
 - Maybe too simplistic, mainly undesigned
-- Unstyled head
+- Unstyled header
